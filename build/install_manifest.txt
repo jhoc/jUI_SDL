@@ -1,1 +1,0 @@
-/mnt/Library/Libraries/Code/sdl/SDL_Framework/bin/jUI_SDL
